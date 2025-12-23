@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack MERN Developer | CS Student | Problem Solver</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/karan-kumar-b991852a7/)" target="_blank">
+  <a href="https://www.linkedin.com/in/karan-kumar-b991852a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://karankumar-portfolio2025.netlify.app" target="_blank">
@@ -69,8 +69,8 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 🌐 Portfolio: https://YOUR_PORTFOLIO_LINK  
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN  ](https://www.linkedin.com/in/karan-kumar-b991852a7/)
+- 🌐 Portfolio: [https://YOUR_PORTFOLIO_LINK](https://karankumar-portfolio2025.netlify.app/)  
 - 📧 Email: YOUR_EMAIL@gmail.com  
 
 ---
