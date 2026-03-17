@@ -1,10 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="380" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<h3 align="center">Full Stack MERN Developer | CS Student | Problem Solver</h3>
+<h3 align="center">
+Full Stack MERN Developer | React.js • Node.js • MongoDB • Mongoose | Open to Work 🚀
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-kumar-b991852a7/" target="_blank">
@@ -13,7 +15,7 @@
   <a href="https://karankumar-portfolio2025.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -21,11 +23,36 @@
 ---
 
 ## 👨‍💻 About Me
+
 - 🎓 B.Tech Computer Science Engineering Student  
-- 💻 Full Stack **MERN Developer**  
-- 🔥 Strong in **JavaScript, React, Node.js**  
-- 📚 Currently learning **DSA & System Design**  
-- 🚀 Passionate about building **real-world scalable projects**
+- 💻 Full Stack MERN Developer (React.js, Node.js, MongoDB, Mongoose)  
+- 🚀 Built real-world scalable projects like **API Sentinel (API Monitoring Platform)**  
+- 📊 Strong in REST APIs, backend architecture & performance optimization  
+- 📚 Currently learning Data Structures & System Design  
+- 🔥 Passionate about building impactful real-world applications  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 API Sentinel – API Monitoring Platform
+- Built a scalable API monitoring & observability system using MERN  
+- Tracks API latency, error rates & performance in real time  
+- Implemented telemetry collection & real-time dashboards  
+- Used MongoDB aggregation (Mongoose ODM) for analytics  
+- Integrated AI-driven insights for anomaly detection  
+
+### 🔹 BookNest – Full Stack Book Management Platform
+- Built using React.js, Firebase & Cloudinary  
+- Implemented authentication (login/signup/email verification)  
+- Added protected routes & cloud storage for media  
+- Responsive UI for smooth user experience  
+
+### 🔹 Personal Finance Tracker
+- Developed using HTML, CSS & JavaScript  
+- Implemented CRUD operations for transactions  
+- Used LocalStorage for persistent data  
+- Real-time balance calculation & expense tracking  
 
 ---
 
@@ -41,18 +68,13 @@
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
----
-
-## 📌 Featured Projects
-- 📚 **BookNest** – Online Book Library (MERN + Auth)
-- 💰 **Personal Finance Tracker** – JS + Charts
 
 ---
 
@@ -69,10 +91,11 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN  ](https://www.linkedin.com/in/karan-kumar-b991852a7/)
-- 🌐 Portfolio: [https://YOUR_PORTFOLIO_LINK](https://karankumar-portfolio2025.netlify.app/)  
-- 📧 Email: YOUR_EMAIL@gmail.com  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/karan-kumar-b991852a7/  
+- 🌐 Portfolio: https://karankumar-portfolio2025.netlify.app  
+- 📧 Email: your-email@gmail.com  
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work, consider starring my repositories!
