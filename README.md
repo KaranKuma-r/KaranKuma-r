@@ -99,7 +99,7 @@ Full Stack MERN Developer | React.js • Node.js • MongoDB • Mongoose | Open
 
 - 💼 LinkedIn: https://www.linkedin.com/in/karan-kumar-b991852a7/  
 - 🌐 Portfolio: https://karankumar-portfolio2025.netlify.app  
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: karan2609.dev@gmail.com  
 
 ---
 
