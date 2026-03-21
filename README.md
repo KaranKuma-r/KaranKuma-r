@@ -15,7 +15,7 @@ Full Stack MERN Developer | React.js • Node.js • MongoDB • Mongoose | Open
   <a href="https://karankumar-portfolio2025.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="karan2609.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
