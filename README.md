@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">
-Full Stack MERN Developer | React.js • Node.js • MongoDB • Mongoose | Open to Work 🚀
+Full Stack MERN Developer | React.js • Node.js • MongoDB • Mongoose | Open to Work 
 </h3>
 
 <p align="center">
