@@ -22,7 +22,7 @@ Full Stack MERN Developer | React.js • Node.js • MongoDB • Mongoose | Open
 
 ----
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student  
 - 💻 Full Stack MERN Developer (React.js, Node.js, MongoDB, Mongoose)  
