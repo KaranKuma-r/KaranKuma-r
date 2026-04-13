@@ -1,4 +1,4 @@
-<!- ===================== HEADER =================== -->
+<!-- ===================== HEADER =================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="380" />
 </p>
