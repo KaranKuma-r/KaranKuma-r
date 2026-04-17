@@ -19,7 +19,7 @@ Full Stack MERN Developer | React.js • Node.js • MongoDB • Mongoose | Open
   </a>
 </p>
 
-----
+---
 
 ### 👨‍💻 About Me
 
